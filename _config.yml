@@ -13,7 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     七环十三郎
+#weibo_username:     七环十三郎
 #zhihu_username:     huxpro
 #github_username:    zendolee
 #twitter_username:   huxpro
